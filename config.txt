@@ -1,0 +1,21 @@
+[PRODUCT SERVER]
+driver = SQL SERVER
+server_name = 192.168.3.102\SQLEXPRESS2014
+database_name = powerpos
+username = ojt
+password = 123456
+
+[USE PAPER SIZE]
+printer_width = 3.8
+printer_height = 0.9
+page_width = 3.8
+page_height = 0.9
+table_width = 3.6
+top_margin = -0.08
+bottom_margin = 0.0
+left_margin = 0.4
+right_margin = 0.29
+font_size = 5
+font_leading = 7.5
+printer_name = BARCODE
+folder_path = C:\Users\genes\OneDrive\Desktop\python_printer_2\pdf
